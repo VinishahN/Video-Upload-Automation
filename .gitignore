@@ -153,4 +153,3 @@ cython_debug/
 ig.py
 creds.py
 client_secrets.json
-public
